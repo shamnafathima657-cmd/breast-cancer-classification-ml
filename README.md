@@ -87,6 +87,4 @@ Why scaling?
 - Scikit-learn
 - NumPy
 
----
 
-## 📂 Project Structure
