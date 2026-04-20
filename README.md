@@ -3,7 +3,7 @@ Breast Cancer Classification using supervised machine learning models (Logistic 
 
 #  Breast Cancer Classification using Machine Learning
 
-##  goal
+##  Project description
 This project applies supervised machine learning algorithms to classify breast cancer tumors as **malignant** or **benign** using the Breast Cancer dataset from sklearn.
 The goal is to compare multiple classification models and evaluate their performance on a real-world dataset.
 
